@@ -1,4 +1,4 @@
-# Promo-Product-Generator
+# Product-Promo-Generator
 
 
 
