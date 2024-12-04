@@ -94,7 +94,7 @@ Welcome to the **Banner Creator**, an intuitive platform for crafting visually a
 
 
 ```bash
-git clone https://github.com/nik-hil-29/Promo-Product-Generator.git
+git clone https://github.com/nik-hil-29/Product-Promo-Generator.git
 
 cd product-banner-generator
 
